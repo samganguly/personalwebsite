@@ -5,5 +5,5 @@ numpy
 matplotlib
 instaloader
 streamlit_lottie
-streamlit-extras-let_it_rain
+streamlit-extras
 
