@@ -129,7 +129,7 @@ profile_pic = Image.open(profile_pic)
 a,b,c=st.columns([.3,1,2] , gap="small")
 with b:
     st.markdown("<br><br>", unsafe_allow_html=True)
-    st.image(profile_pic,width=490)
+    st.image(profile_pic,width=400)
 with c:
     st.title(NAME)
     st.markdown(f'<div class="dosis">{DESCRIPTION}</div>', unsafe_allow_html=True)
