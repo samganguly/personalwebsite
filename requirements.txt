@@ -6,4 +6,5 @@ matplotlib
 instaloader
 streamlit_lottie
 streamlit-extras
+gunicorn
 
