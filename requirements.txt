@@ -1,4 +1,9 @@
 #requirements.txt
-streamlit
-streamlit-lottie
-streamlit_extras
+streamlit==1.14.0
+pillow==8.3.1
+numpy==1.21.1
+matplotlib==3.4.3
+instaloader==4.9.1
+streamlit_lottie==0.13.1
+streamlit-extras-let_it_rain==0.8.0
+
